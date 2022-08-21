@@ -1,0 +1,15 @@
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.deps.json
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.dll
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.pdb
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\bin\Debug\netcoreapp3.1\CapaEntidad.dll
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\bin\Debug\netcoreapp3.1\CapaEntidad.pdb
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfo.cs
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CopyComplete
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.dll
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.pdb

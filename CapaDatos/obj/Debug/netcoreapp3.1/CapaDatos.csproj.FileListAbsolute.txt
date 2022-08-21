@@ -1,0 +1,13 @@
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\bin\Debug\netcoreapp3.1\CapaEntidad.dll
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\bin\Debug\netcoreapp3.1\CapaEntidad.pdb
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CopyComplete
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb

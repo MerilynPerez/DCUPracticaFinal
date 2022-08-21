@@ -1,0 +1,10 @@
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaEntidad\bin\Debug\netcoreapp3.1\CapaEntidad.deps.json
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaEntidad\bin\Debug\netcoreapp3.1\CapaEntidad.dll
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaEntidad\bin\Debug\netcoreapp3.1\CapaEntidad.pdb
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.AssemblyInfo.cs
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.dll
+C:\Users\nite0\source\repos\PracticaFinalPDos\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.pdb
